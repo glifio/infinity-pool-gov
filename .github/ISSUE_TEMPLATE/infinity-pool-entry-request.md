@@ -29,7 +29,7 @@ assignees: Schwartz10
 - [ ] I have gone through the necessary prerequisite actions on the testnet
 
 #### Contact info
-*(Email address)*
-*(Discord ID + tag)*
-*(Twitter)*
-*(Preferred communication channel)*
+*(Email address)*<br />
+*(Discord ID + tag)*<br />
+*(Twitter)*<br />
+*(Preferred communication channel)*<br />

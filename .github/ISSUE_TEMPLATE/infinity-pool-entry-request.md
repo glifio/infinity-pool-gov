@@ -24,6 +24,7 @@ assignees: Schwartz10
 #### Prerequisites
 - [ ] I understand the rules of the GLIF Pools Protocol and the Infinity Pool
 - [ ] I understand that I must pay the fees I owe to the pool at least once a week
+- [ ] I understand that if I do not pay the fees I owe to the pool once a week, my rate will increase (and I will pay more in fees as a result)
 - [ ] I understand that if I owe more than 3 weeks worth of fees to the pool, my miner(s) and agent are at risk of liquidation
 - [ ] I understand that if I have 3 or more days of consecutive faulty sectors, my miner(s) and agent are at risk of liquidation
 - [ ] I have gone through the necessary prerequisite actions on the testnet

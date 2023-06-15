@@ -27,7 +27,6 @@ assignees: Schwartz10
 - [ ] I understand that if I do not pay the fees I owe to the pool once a week, my rate will increase (and I will pay more in fees as a result)
 - [ ] I understand that if I owe more than 3 weeks worth of fees to the pool, my miner(s) and agent are at risk of liquidation
 - [ ] I understand that if I have 3 or more days of consecutive faulty sectors, my miner(s) and agent are at risk of liquidation
-- [ ] I have gone through the necessary prerequisite actions on the testnet
 - [ ] I have pledged a miner that has reached the minimum power threshold to my Agent on mainnet
 
 #### Contact info
